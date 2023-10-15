@@ -12,6 +12,8 @@ export default {
         'marck': ['Marck Script'],
         'inria': ['Inria Sans'],
         'inknut': ['Inknut Antiqua'],
+        'jacques': ['Jacques Francois'],
+        'JetBrains': ['JetBrains Mono'],
       },
     },
   },

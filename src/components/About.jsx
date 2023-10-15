@@ -11,16 +11,24 @@ export default function About() {
 
     <div className='text-[#FFD9D0] h-screen flex items-center'>
     <div className='absolute items-center right-[150px] h-[400px] w-[400px] grid grid-rows-2'>
-        <div className='w-36 grid grid-cols-2 items-center'>
+        
+            <div className='w-36 grid grid-cols-2 items-center'>
+            <a href='https://github.com/Roshanlj'>
         <img src='github.svg'
         className='w-12 h-12'/>
+         </a>
             Github
         </div>
+       
+        
         <div className='w-36 grid grid-cols-2 items-center'>
+        <a href='https://www.linkedin.com/in/roshanlj07/'>
         <img src='linkedin.svg'
         className='w-12 h-12'/>
+        </a>
             LinkedIn
         </div>
+        
     </div>
     </div>
 
